@@ -1,29 +1,33 @@
-# Welcome to your Lovable project
+# Chat Brief 🧠
+### Find the Signal in Your Conversations
 
-This project was built with [Lovable](https://lovable.dev).
+An AI-powered application that summarizes unread conversations
+and identifies important messages, deadlines, decisions, and tasks.
 
-## Build with Lovable
+## 🌐 Live Demo
+https://replit-feature-forge.lovable.app
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+## ✨ Features
+- AI-powered conversation summaries
+- Priority and relevance detection
+- Action item and deadline extraction
+- Decision and mention tracking
+- Interactive dashboard
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## 🛠️ Built With
+- React
+- TypeScript
+- Tailwind CSS
+- TanStack Start
+- Lovable Cloud
 
-## Development
+## 💻 Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+To run this project locally, ensure you have Node.js and npm installed.
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+```bash
+git clone https://github.com/sahilhussain47/ProtocolX-Solutions-By-Kabir
+cd ProtocolX-Solutions-By-Kabir
+npm install
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
