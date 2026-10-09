@@ -1,0 +1,7 @@
+.summary-card .summary-list { display: none; }
+.ai-summary-body { margin: 0; font-size: 13px; line-height: 1.7; color: #000; white-space: pre-wrap; }
+.ai-summary-body ul { margin: 0; padding: 0 0 0 20px; white-space: normal; list-style: disc outside; }
+.ai-summary-body li { display: list-item; list-style: disc outside; margin: 7px 0; padding-left: 3px; }
+.ai-summary-body li::marker { color: #73948a; }
+.ai-summary-body.is-loading { opacity: 0.7; font-style: italic; }
+.app-shell[data-theme="dark"] .ai-summary-body { color: #d7e3dc; }
